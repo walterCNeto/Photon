@@ -2,16 +2,16 @@
 Quant models for risk management
 
 # Risk Models
-Credit
+# Credit
   Application
   Behavior
   Collection
-Market
+# Market
   VaR
   CVaR
-Liquidity
+# Liquidity
   LCR
   NSFR
-Pricing
+# Pricing
   Derivatives
-Assets and Liabilities Management
+# Assets and Liabilities Management
